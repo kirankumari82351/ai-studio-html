@@ -1,0 +1,5 @@
+{
+  "name": "HTML ↔ TXT Converter Bot Hub",
+  "description": "A web hub for testing HTML to TXT conversion logic and configuring your Telegram bot.",
+  "requestFramePermissions": []
+}
